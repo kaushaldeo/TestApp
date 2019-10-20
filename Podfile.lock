@@ -1,0 +1,30 @@
+PODS:
+  - CSStickyHeaderFlowLayout (0.2.11)
+  - FloatingPanel (1.7.0)
+  - Kingfisher (5.8.3):
+    - Kingfisher/Core (= 5.8.3)
+  - Kingfisher/Core (5.8.3)
+  - Toaster (2.2.0)
+
+DEPENDENCIES:
+  - CSStickyHeaderFlowLayout
+  - FloatingPanel
+  - Kingfisher
+  - Toaster
+
+SPEC REPOS:
+  trunk:
+    - CSStickyHeaderFlowLayout
+    - FloatingPanel
+    - Kingfisher
+    - Toaster
+
+SPEC CHECKSUMS:
+  CSStickyHeaderFlowLayout: e9bcb1762413f49d7d09e5bd0ae5efd1100116b7
+  FloatingPanel: f686602da8eff56375e577f19be37348a95f4e24
+  Kingfisher: b7e4cb65ff24c264bd2a1284b75b974d907afd94
+  Toaster: c1a81b376edcc2470157b4d1ee1e9341d3b96455
+
+PODFILE CHECKSUM: 1461f72555d0daf485132cc6c52fb44957ee1b8e
+
+COCOAPODS: 1.8.3
